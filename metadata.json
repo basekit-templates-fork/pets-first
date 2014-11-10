@@ -1,65 +1,54 @@
 {
-    "name":"Velit",
-    "thumbnail":"velit.png",
-    "screenshot":"velit.png",
-    "templateType":"menu",
+    "name": "pets-first",
+    "thumbnail": "velit.png",
+    "screenshot": "velit.png",
+    "templateType": "menu",
     "tags": {
-    "en": ["clean", "menu", "cafe", "bar", "restaurant", "wide", "sharp", "clean", "minimal", "header", "image", "muted", "san-serif"],
-    "es": ["limpio", "menú", "cafetería", "bar", "restaurante"],
-    "br": ["limpo", "menu", "cafeteria", "bar", "restaurante"]
+        "en": [
+            "clean",
+            "menu",
+            "cafe",
+            "bar",
+            "restaurant",
+            "wide",
+            "sharp",
+            "clean",
+            "minimal",
+            "header",
+            "image",
+            "muted",
+            "san-serif"
+        ],
+        "es": [
+            "limpio",
+            "men\u00fa",
+            "cafeter\u00eda",
+            "bar",
+            "restaurante"
+        ],
+        "br": [
+            "limpo",
+            "menu",
+            "cafeteria",
+            "bar",
+            "restaurante"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#ffffff",
-            "color3":"#4f6d7a",
-            "color4":"#0d3647",
-            "color5":"#000000",
-            "color6":"#ffffff",
-            "color7":"#0d3647"
-        },
-        "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#ffffff",
-            "color3":"#5f90a5",
-            "color4":"#2b6c87",
-            "color5":"#666d6f",
-            "color6":"#ffffff",
-            "color7":"#666d6f"
-        },
-        "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#ffffff",
-            "color3":"#558179",
-            "color4":"#1e3631",
-            "color5":"#465853",
-            "color6":"#ffffff",
-            "color7":"#1e3631"
-        },
-        "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#ffffff",
-            "color3":"#898794",
-            "color4":"#555167",
-            "color5":"#58525a",
-            "color6":"#ffffff",
-            "color7":"#55525a"
-        },
-        "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#ffffff",
-            "color3":"#78b0b8",
-            "color4":"#46858e",
-            "color5":"#000000",
-            "color6":"#ffffff",
-            "color7":"#46858e"
+            "color1": "#ffffff",
+            "color2": "#fff5f1",
+            "color3": "#575d61",
+            "color4": "#9d9d9d",
+            "color5": "#acacac",
+            "color6": "#6bafed",
+            "color7": "#6bafed"
         }
     },
     "fontSwatch": {
-       "title": "Oswald",
+        "title": "Oswald",
         "font1": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
@@ -67,7 +56,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "30px",
             "font-weight": "inherit",
             "line-height": "40px",
@@ -75,7 +64,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "28px",
@@ -83,7 +72,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -91,7 +80,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -99,7 +88,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "24px",
@@ -110,7 +99,7 @@
             "background-color-hover": "@color-swatch1"
         },
         "font7": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "24px",
@@ -120,7 +109,7 @@
             "background-color-hover": "darken(@color-swatch3,5%)"
         },
         "font8": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "28px",
@@ -128,7 +117,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "28px",
@@ -136,7 +125,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
